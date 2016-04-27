@@ -4,3 +4,5 @@ pentru a simula conectarea a mai multor clienti la server .<br>
 
 Client-ul:<br>
 Se introduc numele si sexul pe rand.Urmand ca serverul sa raspunda.<br> 
+
+Contribuitor:@danucosmin
